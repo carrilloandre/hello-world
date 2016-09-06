@@ -7,6 +7,15 @@
 <title>CR7 Fanpage</title>
 </head>
 <body>
+    <body class="CR7Fanpage">
+        <div class="CR7Fanpage">
+            <h1>CR7 Fanpage</h1>
+            <p>Welcome!</p>
+        </div>
 
+    <footer>
+        <p>Posted by: Andre Carrillo</p>
+        <p>Contact information: <a href="mailto:andre.carrillo@speeracademy.org">andre.carrillo@speeracademy.org</a>.</p>
+    </footer>
 </body>
 </html>
