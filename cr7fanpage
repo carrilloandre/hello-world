@@ -13,7 +13,7 @@
             <p>Welcome!</p>
         </div>
     <div class="nav">
-<!--taken fromm getbootstrap.com-->
+            <!--taken from getbootstrap.com-->
             <button type="button" class="btnbtn-defaultnavbar-btn">Home</button>
             <button type="button" class="btnbtn-defaultnavbar-btn">Childhood</button>
             <button type="button" class="btnbtn-defaultnavbar-btn">Statistics</button>
