@@ -7,11 +7,10 @@
 <title>CR7 Fanpage (Home)</title>
 </head>
 <body>
-    <body class="CR7Fanpage">
-        <div class="Home">
-            <h1>CR7 Fanpage (Home)</h1>
-            <p>Welcome!</p>
-        </div>
+    <div class="Home">
+        <h1>CR7 Fanpage (Home)</h1>
+        <p>Welcome!</p>
+    </div>
     <div class="nav">
             <!--taken from getbootstrap.com-->
             <button type="button" class="btnbtn-defaultnavbar-btn">Home</button>
