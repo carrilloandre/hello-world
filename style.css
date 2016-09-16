@@ -12,3 +12,7 @@ body {
     cursor: url(images/cr7cursor.png), auto;
 }
 
+.container {
+    text-align:center;
+    background-image: url(images/cr7background.png);
+}
