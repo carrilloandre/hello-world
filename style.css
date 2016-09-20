@@ -10,6 +10,9 @@
 body {
     text-align:center;
     cursor: url(images/cr7cursor.png), auto;
+    font-stretch: expanded;
+    font-size: 12px;
+    font-family: Helvetica, "Times New Roman", Arial;
 }
 
 .container {
