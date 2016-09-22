@@ -5,11 +5,22 @@
 }
 
 .nav {
+    text-align:center;
+    color:#ff7f14;
+    padding:10px;
+    background-color:#57fff5;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+.nav:hover{
+    color:#110c09;
+    font-family:Times;
 }
 
 body {
     text-align:center;
-    cursor: url(images/cr7cursor.png), auto;
+    cursor: url(cr7cursor.png), auto;
     font-stretch: expanded;
     font-size: 12px;
     font-family: Helvetica, "Times New Roman", Arial;
@@ -17,5 +28,15 @@ body {
 
 .container {
     text-align:center;
-    background-image: url(images/cr7background.jpg);
+    background-image: url(cr7background.jpg);
+}
+
+.home  {
+    background-color:#110c09;
+    color:#57fff5; 
+    padding:5px;
+    text-align:center;
+}
+.home:hover{
+    color:#ff7f14;
 }
