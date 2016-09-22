@@ -45,14 +45,14 @@ body {
     background-image: url(cr7background.jpg);
 }
 
-.home  {
+.home {
     background-color:#110c09;
     color:#57fff5; 
     padding:5px;
     text-align:center;
 }
 
-.home:hover{
+.home:hover {
     color:#ff7f14;
 }
 
@@ -64,4 +64,19 @@ body {
   padding: 5px;
   background-color:#57fff5;
   text-align: center;
+}
+
+.si {
+    display: block;
+    margin: 0 auto;
+}
+
+.comandante {
+    display: block;
+    margin: 0 auto;
+}
+
+.celebration {
+    display: block;
+    margin: 0 auto;
 }
