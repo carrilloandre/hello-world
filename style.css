@@ -1,7 +1,21 @@
 .right {
+    background-color:#ff7f14;
+    opacity:.95;
+    padding:30px;
+    text-align:justify;
+    border:10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
 }
 
 .left {
+    background-color:#ff7f14;
+    opacity:.95;
+    padding:30px;
+    text-align:justify;
+    border:10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
 }
 
 .nav {
@@ -37,6 +51,7 @@ body {
     padding:5px;
     text-align:center;
 }
+
 .home:hover{
     color:#ff7f14;
 }
