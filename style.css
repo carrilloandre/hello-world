@@ -57,7 +57,7 @@ body {
 }
 
 .footer {
-  position: fixed;
+  position: absolute;
   right: 0;
   bottom: 0;
   left: 0;
@@ -69,17 +69,14 @@ body {
 .si {
     display: block;
     margin: 0 auto;
-    text-align: center;
 }
 
 .comandante {
     display: block;
     margin: 0 auto;
-    text-align: center;
 }
 
 .celebration {
     display: block;
     margin: 0 auto;
-    text-align: center;
 }
