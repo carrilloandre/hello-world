@@ -38,6 +38,7 @@ body {
     font-stretch: expanded;
     font-size: 12px;
     font-family: Helvetica, "Times New Roman", Arial;
+    padding-bottom: 75px;
 }
 
 .container {
@@ -57,7 +58,7 @@ body {
 }
 
 .footer {
-  position: absolute;
+  position: fixed;
   right: 0;
   bottom: 0;
   left: 0;
@@ -69,14 +70,17 @@ body {
 .si {
     display: block;
     margin: 0 auto;
+    text-align: center
 }
 
 .comandante {
     display: block;
     margin: 0 auto;
+    text-align: center;
 }
 
 .celebration {
     display: block;
     margin: 0 auto;
+    text-align: center;
 }
