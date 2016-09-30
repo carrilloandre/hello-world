@@ -86,3 +86,12 @@ body {
 .row {
     text-align: justify;
 }
+
+.bottom{
+    background-color:#ff7f14;
+    opacity:.95;
+    padding:5px;
+    border:10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
