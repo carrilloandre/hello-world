@@ -78,3 +78,27 @@ body {
     margin-bottom: 10px;
     text-align: center;
 }
+
+.kid1 {
+    display: block;
+    margin: 0 auto;
+    text-align: center
+}
+
+.kid2 {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.kid3 {
+    display: block;
+    margin: 0 auto;
+    text-align: center
+}
+
+.kid4 {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
